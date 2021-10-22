@@ -8,6 +8,12 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar 
 
+<a href="https://drive.google.com/file/d/1fm1uMQCodEq9kb2HuIzOS0octUyrK-EB/view?usp=sharing">View Resume</a>
+<br>
+<br>
+<a href="https://drive.google.com/file/d/15N5d_Wd_TeiQUirVq029LW9hSqafT-1D/view?usp=sharing">View Cover letter</a>
+
+
 ### Internship
 - Web Developer -Intern RCS Technology pvt ltd
 ### Tasks
