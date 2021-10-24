@@ -28,7 +28,7 @@ Secured Best Project in 2 Days National Level Project Symposium.
 
 
 ### Certificates
-- Introduction to Cybersecurity Tools & Cyber Attacks Coursera (IBM) 
+- Introduction to Cybersecurity Tools & Cyber Attacks By Coursera (IBM) 
 
 
 
@@ -49,8 +49,11 @@ Secured Best Project in 2 Days National Level Project Symposium.
  
 ## 📫 Get in touch
 <p align="center">
-	<a href="https://github.com/ramesh-lg"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/ramesh-lg/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.facebook.com/RAMESH.RAM45/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/r_a_m_e_s_h._l/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://github.com/ramesh-lg"><img alt="github" width="6%" style="padding:10px" src="https://img.icons8.com/small/60/000000/github.png"/></a> &nbsp;
+	<a href="https://www.linkedin.com/in/ramesh-lg/"><img alt="linkedin" width="6%" style="padding:10px" src="https://img.icons8.com/small/60/000000/linkedin.png"/></a> &nbsp;
+	<a href="https://www.facebook.com/RAMESH.RAM45/"><img alt="facebook" width="6%" style="padding:10px" src="https://img.icons8.com/small/60/000000/facebook-new.png"/></a> &nbsp;
+	<a href="https://www.instagram.com/r_a_m_e_s_h._l/"><img alt="instagram" width="6%" style="padding:10px" src="https://img.icons8.com/small/60/000000/instagram.png"/></a> &nbsp;
+
+
 </p>
+
