@@ -3,7 +3,7 @@
 ## I'm a Trainee, Student & Mentor!!
 - 🔭 I just completed my engineering and I am a trainee in JSpiders
 - 🌱 I'm Learner | Programmer 
-- ⚡  Currently Learning **Python**, **Web Development**, **SQL**, **Java**
+- ⚡  Currently Learning **SQL**, **Java**, **Python**,  **Web Development**
 - 👯 I’m currently looking for new opportunities .
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar 
