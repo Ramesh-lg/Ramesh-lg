@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar 
 
-<a href="https://drive.google.com/file/d/1fm1uMQCodEq9kb2HuIzOS0octUyrK-EB/view?usp=sharing">View Resume</a>
+<a href="https://drive.google.com/file/d/1Ca26qnkN9A33DmFt6pstIhYBc3B8_WtP/view?usp=drivesdk">View Resume</a>
 <br>
 
 
