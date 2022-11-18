@@ -3,8 +3,9 @@
 ## I'm a Trainee, Student & Mentor!!
 - 🔭 I just completed my engineering and I am a trainee in JSpiders
 - 🌱 I'm Learner | Programmer 
-- ⚡  Currently Learning **SQL**, **Java**, **Web Development**
-- 👯 I’m currently looking for new opportunities .
+- ⚡  Currently Working on Unity 3D game development, AR/VR/MR projects.
+- Skilled in Unity 3d, **c#**, **SQL**, **Java**, **Web Development**
+- 👯 Looking for new opportunities .
 - ⚡ Fun fact: I love to draw and play guitar 
 
 <a href="https://drive.google.com/file/d/1pVJEs-wwZOVj0hVqdGSEMXJ9M7w6HAiR/view?usp=sharing">View Resume</a>
