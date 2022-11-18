@@ -5,10 +5,9 @@
 - 🌱 I'm Learner | Programmer 
 - ⚡  Currently Learning **SQL**, **Java**, **Web Development**
 - 👯 I’m currently looking for new opportunities .
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar 
 
-<a href="https://drive.google.com/file/d/1Ca26qnkN9A33DmFt6pstIhYBc3B8_WtP/view?usp=drivesdk">View Resume</a>
+<a href="https://drive.google.com/file/d/1pVJEs-wwZOVj0hVqdGSEMXJ9M7w6HAiR/view?usp=sharing">View Resume</a>
 <br>
 
 
