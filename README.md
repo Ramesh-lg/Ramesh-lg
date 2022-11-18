@@ -1,10 +1,8 @@
 ## Hi there, Ramesh 👋
 
-## I'm a Trainee, Student & Mentor!!
-- 🔭 I just completed my engineering and I am a trainee in JSpiders
-- 🌱 I'm Learner | Programmer 
 - ⚡  Currently Working on Unity 3D game development, AR/VR/MR projects.
-- Skilled in Unity 3d, **c#**, **SQL**, **Java**, **Web Development**
+- 🌱 I'm Learner | Programmer 
+- 🔭 Skilled in Unity 3d, **c#**, **SQL**, **Java**, **Web Development**
 - 👯 Looking for new opportunities .
 - ⚡ Fun fact: I love to draw and play guitar 
 
